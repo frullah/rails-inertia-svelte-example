@@ -7,3 +7,4 @@
   # Rails Inertia Svelte Example
 </div>
 
+a simple Rails integration with [Inertia](https://inertiajs.com/) + [Svelte](https://svelte.dev/) + [Vite](https://vitejs.dev/)
