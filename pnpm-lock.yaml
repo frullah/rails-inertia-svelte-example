@@ -1,8 +1,12 @@
 lockfileVersion: 5.3
 
 specifiers:
+  svelte: ^3.41.0
   vite: ^2.4.4
   vite-plugin-ruby: ^2.0.5
+
+dependencies:
+  svelte: 3.41.0
 
 devDependencies:
   vite: 2.4.4
@@ -207,6 +211,11 @@ packages:
     resolution: {integrity: sha512-/3GptzWzu0+0MBQFrDKzw/DvvMTUORvgY6k6jd/VS6iCR4RDTKWH6v6WPwQoUO8667uQEf9Oe38DxAYWY5F/Ug==}
     engines: {node: '>=0.10.0'}
     dev: true
+
+  /svelte/3.41.0:
+    resolution: {integrity: sha512-X9/lnTcRBCrMdyFBVjfmqy1T2vyN8ejUE1OfbWSccc2Z42Amn3ab3XdBgVl+oDkZvzPfPMoxo6CEbWca7pXOew==}
+    engines: {node: '>= 8'}
+    dev: false
 
   /to-regex-range/5.0.1:
     resolution: {integrity: sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ==}
