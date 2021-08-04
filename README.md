@@ -1,24 +1,9 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<div align="center">
+  <a href="https://vite-rails.netlify.app/">
+    <img src="https://raw.githubusercontent.com/ElMassimo/vite_rails/main/docs/public/logo.svg" width="120px"/>
+  </a>
 
-Things you may want to cover:
+  # Rails Inertia Svelte Example
+</div>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
